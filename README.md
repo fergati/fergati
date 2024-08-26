@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Fernando!</h1>
-<h3 align="center">Trabalhar com soluções de arquitetura focadas em melhoria nos sistemas de informação.</h3>
+<h3 align="center">Trabalhar com soluções de arquitetura de software, focadas em melhoria nos sistemas de informação.</h3>
 
 🔭 Atualmente estou trabalhando como **Arquiteto de Software**
 
